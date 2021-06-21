@@ -9,8 +9,10 @@ The objective is to build a low cost thin wire solenoid winding machine where th
 
 ## The body of the machine 
 ![image](https://user-images.githubusercontent.com/69747550/122800105-2af2e200-d2e0-11eb-97b5-ecff01f11dc5.png)
+
 The entire body was designed using CAD and was made by my mech friends.
 
 ## The Final Prototype
 ![image](https://user-images.githubusercontent.com/69747550/122800320-6b526000-d2e0-11eb-80f2-41d8ae1a2bf8.png)
+
 You can refer the video that is in the repo to see how it works irl.

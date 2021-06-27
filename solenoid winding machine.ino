@@ -26,7 +26,7 @@ void loop()
         {
           c=c+1;
           digitalWrite(MotorAip1,HIGH);
-          digitalWrite(MotorAip2,HIGH);
+          digitalWrite(MotorAip2,LOW);
           lcd.print(c-1);
         }
         if (c>a)
@@ -38,7 +38,7 @@ void loop()
         }
 //  {
     //Stop both Motors
-    digitalWrite(MotorAip1,LOW);
+    //digitalWrite(MotorAip1,LOW);
 //    digitalWrite(MotorAip2,LOW);
 //    digitalWrite(MotorBip1,LOW);
 //    digitalWrite(MotorBip2,LOW);
